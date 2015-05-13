@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 1 burger
+||||||| merged common ancestors
+=======
+1 burger
+>>>>>>> 809a22b72fba1d3ac6039795c1b59882edb5b996
